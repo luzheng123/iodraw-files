@@ -241,12 +241,6 @@
         <mxCell id="qoR48vq5uTu9E2QZDsoi-7" value="B2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#0F0000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="781" y="438" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-298" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="678" y="440" width="10" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-299" value="" style="line;strokeWidth=4;direction=west;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="465" width="55" height="1" as="geometry" />
-        </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-323" value="" style="line;strokeWidth=4;direction=east;html=1;strokeColor=#FF0000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="1564.25" width="346" height="10" as="geometry" />
         </mxCell>
@@ -714,9 +708,6 @@
         </mxCell>
         <mxCell id="j9gnZTqoryMIVa-zXZed-9" value="" style="line;strokeWidth=4;direction=west;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="1236" width="37" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-304" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="627" y="464" width="10" height="806" as="geometry" />
         </mxCell>
         <mxCell id="j9gnZTqoryMIVa-zXZed-4" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="633" y="1242.75" width="10" height="20.25" as="geometry" />
