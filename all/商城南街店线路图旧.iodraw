@@ -643,9 +643,6 @@
         <mxCell id="p_GlbPoMYWc25vlI6N8E-11" value="&lt;font color=&quot;#ffffff&quot;&gt;零线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="101" y="230" width="33" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="dtXHJazj9vxTYGEntdcw-110" value="" style="line;strokeWidth=4;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#3399FF;direction=north;" parent="1" vertex="1">
-          <mxGeometry x="676" y="168" width="12" height="272" as="geometry" />
-        </mxCell>
         <object label="" 类型="零线" 节点="B2" id="qooc-3FKRiYL6JyaG96B-20">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3399FF;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fontFamily=Helvetica;fontSize=11;fontColor=default;fontStyle=1;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="qoR48vq5uTu9E2QZDsoi-92" target="Y0lmtATbqJsAOHkSya4s-2">
             <mxGeometry relative="1" as="geometry" />
@@ -659,6 +656,9 @@
               <mxPoint x="118" y="190" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qooc-3FKRiYL6JyaG96B-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#0000CC;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=none;" edge="1" parent="1" source="qoR48vq5uTu9E2QZDsoi-92" target="p_GlbPoMYWc25vlI6N8E-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-92" value="&lt;font color=&quot;#ffffff&quot;&gt;零线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="428" width="23" height="30" as="geometry" />
