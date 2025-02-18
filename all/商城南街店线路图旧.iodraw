@@ -19,9 +19,6 @@
         <mxCell id="qoR48vq5uTu9E2QZDsoi-49" value="" style="line;strokeWidth=4;direction=south;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="756" y="429" width="8" height="11" as="geometry" />
         </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-50" value="" style="line;strokeWidth=4;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="426" width="20" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-86" value="" style="line;strokeWidth=4;direction=south;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="979" y="336" width="10" height="211" as="geometry" />
         </mxCell>
@@ -329,9 +326,6 @@
         </mxCell>
         <mxCell id="p1j90r-9zMxhjNGLAGRk-8" value="C11" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000FF;strokeColor=#000000;fontColor=#ffffff;direction=west;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="992" y="401" width="22" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="p1j90r-9zMxhjNGLAGRk-10" value="" style="line;strokeWidth=4;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="774" y="410" width="10" height="23" as="geometry" />
         </mxCell>
         <mxCell id="p1j90r-9zMxhjNGLAGRk-13" value="" style="line;strokeWidth=4;html=1;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1527" y="1260" width="10" height="320" as="geometry" />
