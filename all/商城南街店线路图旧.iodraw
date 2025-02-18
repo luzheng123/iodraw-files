@@ -611,7 +611,7 @@
             <Array as="points">
               <mxPoint x="239" y="280" />
               <mxPoint x="325" y="280" />
-              <mxPoint x="325" y="221" />
+              <mxPoint x="325" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -831,7 +831,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qooc-3FKRiYL6JyaG96B-24" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=1;rounded=0;strokeColor=#3399FF;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="348" y="190" width="20" height="20" as="geometry" />
+          <mxGeometry x="355" y="190" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
