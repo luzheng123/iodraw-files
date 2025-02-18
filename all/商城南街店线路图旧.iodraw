@@ -256,8 +256,8 @@
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-335" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;flipH=1;flipV=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="592.21" y="665" as="sourcePoint" />
-            <mxPoint x="632.0031034482759" y="644.8275862068965" as="targetPoint" />
+            <mxPoint x="600.21" y="664.17" as="sourcePoint" />
+            <mxPoint x="640.0031034482759" y="643.9975862068965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-336" value="&lt;font color=&quot;#ff0000&quot;&gt;B2火线绿绿红&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" collapsed="1">
