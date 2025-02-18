@@ -82,18 +82,6 @@
         <mxCell id="qoR48vq5uTu9E2QZDsoi-9" value="A2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF8000;fontColor=#ffffff;strokeColor=#005700;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="438" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-116" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=south;flipH=0;flipV=0;strokeWidth=4;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="678" width="13" height="156" as="geometry" />
-        </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-118" value="" style="line;strokeWidth=4;html=1;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1121" y="673" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-119" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=west;flipH=1;flipV=0;strokeWidth=4;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1253" y="820" width="187" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-120" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=north;flipH=1;flipV=1;strokeWidth=4;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1422" y="843" width="23" height="127" as="geometry" />
-        </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-127" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;direction=south;flipH=1;flipV=1;strokeWidth=4;strokeColor=#FF8000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1568" y="1234.5" width="13" height="10" as="geometry" />
         </mxCell>
