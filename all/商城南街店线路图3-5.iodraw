@@ -735,8 +735,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=default;" edge="1" parent="1" source="dtXHJazj9vxTYGEntdcw-74" target="qoR48vq5uTu9E2QZDsoi-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#001DBC;strokeWidth=4;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=#0050ef;" edge="1" parent="1" source="dtXHJazj9vxTYGEntdcw-74" target="qoR48vq5uTu9E2QZDsoi-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="310" />
+              <mxPoint x="825" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dtXHJazj9vxTYGEntdcw-74" value="&lt;font color=&quot;#ff0000&quot;&gt;1总开&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#005700;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="165" y="230" width="50" height="43" as="geometry" />
