@@ -34,9 +34,6 @@
         <mxCell id="qoR48vq5uTu9E2QZDsoi-50" value="" style="line;strokeWidth=4;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#CCCC00;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="426" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="qoR48vq5uTu9E2QZDsoi-54" value="" style="line;strokeWidth=4;direction=south;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="816" y="410" width="10" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-59" value="" style="line;strokeWidth=4;direction=south;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#00FF00;fillStyle=hatch;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="713" y="350" width="10" height="120" as="geometry" />
         </mxCell>
@@ -698,6 +695,9 @@
         </mxCell>
         <mxCell id="Y0lmtATbqJsAOHkSya4s-1" value="&lt;h4&gt;&lt;font color=&quot;#ff0000&quot;&gt;2总开&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#005700;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="230" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=default;" edge="1" parent="1" source="qoR48vq5uTu9E2QZDsoi-4" target="qoR48vq5uTu9E2QZDsoi-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-4" value="&lt;h4&gt;C&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#0F0000;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="810" y="384" width="30" height="30" as="geometry" />
