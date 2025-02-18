@@ -737,15 +737,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="637.4999999999999" y="977" as="sourcePoint" />
             <mxPoint x="884.5000000000005" y="767.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="637" y="953" />
-              <mxPoint x="637" y="930" />
-              <mxPoint x="701" y="930" />
-              <mxPoint x="701" y="760" />
-              <mxPoint x="880" y="760" />
-              <mxPoint x="880" y="768" />
-              <mxPoint x="883" y="768" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y0lmtATbqJsAOHkSya4s-2" value="B21" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#000000;fontColor=#ffffff;direction=west;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontSize=9;" parent="1" vertex="1">
