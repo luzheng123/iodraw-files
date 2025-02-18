@@ -688,8 +688,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=default;" edge="1" parent="1" source="Y0lmtATbqJsAOHkSya4s-1" target="qoR48vq5uTu9E2QZDsoi-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#b38300;strokeWidth=4;align=center;verticalAlign=top;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=#e3c800;" edge="1" parent="1" source="Y0lmtATbqJsAOHkSya4s-1" target="qoR48vq5uTu9E2QZDsoi-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="300" />
+              <mxPoint x="750" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y0lmtATbqJsAOHkSya4s-1" value="&lt;h4&gt;&lt;font color=&quot;#ff0000&quot;&gt;2总开&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#005700;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="230" width="50" height="43" as="geometry" />
