@@ -718,15 +718,17 @@
         <mxCell id="Y0lmtATbqJsAOHkSya4s-4" value="B212" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#000000;fontColor=#ffffff;direction=west;flipV=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="630" y="1263" width="30" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="CsX9y8dY1BJwV-XF8Tyf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#FF0000;endArrow=none;endFill=0;" parent="1" edge="1">
+        <mxCell id="CsX9y8dY1BJwV-XF8Tyf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#FF0000;endArrow=none;endFill=0;" parent="1" edge="1" target="CsX9y8dY1BJwV-XF8Tyf-5" source="Y0lmtATbqJsAOHkSya4s-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="643.5000000000001" y="977.0000000000002" as="sourcePoint" />
             <mxPoint x="890.5000000000002" y="768" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="644" y="977" />
               <mxPoint x="644" y="990" />
               <mxPoint x="686" y="990" />
               <mxPoint x="686" y="748" />
               <mxPoint x="891" y="748" />
+              <mxPoint x="891" y="768" />
             </Array>
           </mxGeometry>
         </mxCell>
