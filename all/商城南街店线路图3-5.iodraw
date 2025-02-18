@@ -855,7 +855,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-hY7tBf4Ws8yqfg8dyM-3" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;resizable=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="180" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
