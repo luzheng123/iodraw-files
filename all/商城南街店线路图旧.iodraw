@@ -234,7 +234,7 @@
           <mxGeometry x="791" y="450" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-7" value="B2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#0F0000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="782" y="438" width="20" height="20" as="geometry" />
+          <mxGeometry x="783.5" y="438" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-298" value="" style="line;strokeWidth=4;direction=south;html=1;strokeColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="678" y="440" width="10" height="27" as="geometry" />
@@ -598,7 +598,12 @@
           <mxGeometry x="735" y="384" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qooc-3FKRiYL6JyaG96B-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=4;align=center;verticalAlign=top;spacingLeft=3;spacingRight=3;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=default;" edge="1" parent="1" source="qoR48vq5uTu9E2QZDsoi-3" target="qoR48vq5uTu9E2QZDsoi-7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="796" y="430" />
+              <mxPoint x="797" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="qooc-3FKRiYL6JyaG96B-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=#CCCC00;strokeWidth=4;align=center;verticalAlign=top;spacingLeft=3;spacingRight=3;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;resizable=1;endArrow=none;endFill=0;fillColor=#e51400;" edge="1" parent="1" source="qoR48vq5uTu9E2QZDsoi-3" target="qoR48vq5uTu9E2QZDsoi-6">
           <mxGeometry relative="1" as="geometry">
