@@ -700,9 +700,6 @@
         <mxCell id="Y0lmtATbqJsAOHkSya4s-1" value="&lt;h4&gt;&lt;font color=&quot;#ff0000&quot;&gt;2总开&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=#005700;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="227" y="230" width="50" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="dtXHJazj9vxTYGEntdcw-104" value="" style="line;strokeWidth=4;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=1;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#0000CC;direction=north;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="298.5" y="240" width="8" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-4" value="&lt;h4&gt;C&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#0F0000;fontColor=#ffffff;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="810" y="384" width="30" height="30" as="geometry" />
         </mxCell>
@@ -732,9 +729,6 @@
         </mxCell>
         <mxCell id="qoR48vq5uTu9E2QZDsoi-92" value="&lt;font color=&quot;#ffffff&quot;&gt;零线&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#3399FF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="428" width="23" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dtXHJazj9vxTYGEntdcw-99" value="" style="line;strokeWidth=4;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=1;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#0000CC;direction=west;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="236.5" width="527" height="8" as="geometry" />
         </mxCell>
         <mxCell id="dtXHJazj9vxTYGEntdcw-88" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=#F0F000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="277" width="490" height="10" as="geometry" />
