@@ -833,20 +833,15 @@
         <mxCell id="qooc-3FKRiYL6JyaG96B-24" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;rounded=0;strokeColor=#3399FF;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fillColor=none;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="190" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qooc-3FKRiYL6JyaG96B-29" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#CCCC00;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=default;resizable=1;fillColor=#e51400;" vertex="1" parent="1">
-          <mxGeometry x="1188" y="955" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qooc-3FKRiYL6JyaG96B-30" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeColor=#0000CC;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;resizable=1;fillColor=none;" edge="1" target="qooc-3FKRiYL6JyaG96B-29" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="990" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qooc-3FKRiYL6JyaG96B-31" value="Branch" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};strokeColor=#CCCC00;strokeWidth=4;spacingTop=8;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;labelBackgroundColor=default;resizable=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qooc-3FKRiYL6JyaG96B-32" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;strokeColor=#0000CC;strokeWidth=4;align=center;verticalAlign=middle;spacingLeft=3;spacingRight=3;spacingTop=-1;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fontStyle=1;labelBackgroundColor=default;resizable=1;fillColor=none;" edge="1" target="qooc-3FKRiYL6JyaG96B-31" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1100" y="680" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1100" y="910" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
